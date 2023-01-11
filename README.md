@@ -1,6 +1,11 @@
 # PopinjayApp
 Jetpack Compose Screens Hometask
 
+![popinjay_logo](https://user-images.githubusercontent.com/54776811/211821274-ffa0f1b5-264d-4c3d-831d-45c21db8454f.png)
+![screenshot_1](https://user-images.githubusercontent.com/54776811/211821175-2e6e5ee5-a47b-4e6a-9dfe-3b38c1c07db1.png)
+![screenshot_2](https://user-images.githubusercontent.com/54776811/211821188-7d99bab1-bfd1-42b2-8806-c181453aeadc.png)
+
+
 ## License
 
 ```
